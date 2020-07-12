@@ -1,1 +1,3 @@
-printf("Hello World.")
+print("Hello World.")
+print("My name is hoge.py")
+
